@@ -91,7 +91,7 @@ The Medical Report Summarization System is a web-based application designed to f
 
 - **Deployment:**
   - Ensures the application is accessible, scalable, and maintained.
-  - Deployment can be done using cloud platforms like AWS or Heroku.
+  
 
 ## Data Flow Overview
 
